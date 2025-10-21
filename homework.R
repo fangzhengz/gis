@@ -1,5 +1,5 @@
 ---
-  title:"homeworkone1"
+  title:"homeworkone"
   output:html_document
 ---
 ```{r}
