@@ -216,6 +216,9 @@ ihist<-plot_ly(alpha = 0.6) %>%
                 xbins=xbinsno, name="case2") %>% 
   layout(barmode = "overlay", xaxis=x, yaxis=y)
 ihist
+<!--begin.rcode
+
+end.rcode-->
 
 ```
 
